@@ -1,0 +1,8 @@
+.User {
+  border: 3px solid;
+  margin: 20px 37%;
+  width: 30%;
+  border-radius: 40%;
+  border-color: rgb(83, 85, 85);
+  background-color: rgb(245, 181, 63);
+}
